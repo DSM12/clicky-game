@@ -1,0 +1,7 @@
+.text-center {
+    text-align: center;
+    font-size: 32px;
+    background-color: lightslategray;
+    width: fit-content;
+    color: #D92B2B;
+}
