@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1, 
+        "name": "Iron Man",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/3/2018/05/IRON-2008-d7a2706.jpg?webp=true&quality=90&resize=620%2C413"
+    },
+    {
+        "id": 2, 
+        "name": "Spider-Man",
+        "image": "https://img1.looper.com/img/gallery/the-untold-truth-of-spider-mans-iron-spider-suit/intro-1526006714.jpg"
+    },
+    {
+        "id": 3, 
+        "name": "Captain Marvel", 
+        "image": "https://i.ibb.co/KhT8s20/Dale-gribble.jpg"
+    },
+    {
+        "id": 4, 
+        "name": "Vision",
+        "image": "https://i.ibb.co/D7VZ2MD/Boomhauer.png"
+    },
+    {
+        "id": 5,
+        "name": "Black Panther",
+        "image": "https://i.ibb.co/C7LHVj4/Bill-Dauterive.png"
+    },
+    {
+        "id": 6, 
+        "name": "Thor",
+        "image": "https://img.mensxp.com/media/content/2018/Aug/thor-is-the-best-enterer-in-the-marvel-cinematic-universe800-1534252525.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Batman",
+        "image": "https://i.ibb.co/QjNsNML/Minh-Souphanousinphone.jpg"
+    }, 
+    {
+        "id": 8, 
+        "name": "Superman", 
+        "image": "https://www.denofgeek.com/wp-content/uploads/2016/08/henry_cavill_batman_v_superman-wide-1.jpg?resize=768%2C432"
+    }, 
+    {
+        "id": 9, 
+        "name": "Wonder Woman", 
+        "image": "https://media.newyorker.com/photos/593581e785bd115baccba6d2/master/w_2560%2Cc_limit/Lane-Ten-Things-about-Wonder-Woman.jpg"
+    }, 
+    {
+        "id": 10, 
+        "name": "Aquaman", 
+        "image": "https://blogs.lcms.org/wp-content/uploads/2019/01/Aquaman.jpg"
+    }, 
+    {
+        "id": 11, 
+        "name": "Flash", 
+        "image": "https://www.syfy.com/sites/syfy/files/styles/1200x680_hero/public/2020/03/mv5bmty5mtaynjq3mv5bml5banbnxkftztgwmdq2ndaxndm._v1_sx1777_cr001777960_al_.jpg"
+    }, 
+    {
+        "id": 12, 
+        "name": "Cyborg", 
+        "image": "https://pursuenews.com/wp-content/uploads/2017/07/Ray-Fisher-as-Cyborg-in-Justice-League.jpg"
+    }
+]
